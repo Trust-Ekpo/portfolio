@@ -251,3 +251,10 @@ html.sticky-header-active #header .header-body {
 .sort-destination-loader.sort-destination-loader-showing {
 		max-height: none;
 }
+
+/* 
+courses */
+
+.list-justify li{
+	text-align: justify;
+}
